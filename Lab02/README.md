@@ -157,11 +157,11 @@ Mục tiêu:
 - Sử dụng câu điều kiện if/switch
 
 Bài tập:
-- [Bài 1](.\Lab02_code\src\Lab02_code\Lab02_code.java): Cho phương trình ax + b = 0. Viết chương trình nhập vào 2 số nguyên a và b. Tính toán nghiệm của phương trình
+- [Bài 1](./Lab02_code/src/Lab02_code/Lab02_code.java): Cho phương trình ax + b = 0. Viết chương trình nhập vào 2 số nguyên a và b. Tính toán nghiệm của phương trình
 trên và in ra nghiệm.
-- [Bài 2](.\Lab02_code\src\Lab02_code\Lab02_code.java): Viết chương trình nhập vào 1 số nguyên từ bàn phím. Kiểm tra số nguyên đó là chẵn hay lẻ và in ra kết quả.
-- [Bài 3](.\Lab02_code\src\Lab02_code\Lab02_code.java): Viết chương trình nhập vào 1 số nguyên từ bàn phím. Kiểm tra số nguyên đó là dương, âm hay bằng 0 và in ra kết quả.
-- [Bài 4](.\Lab02_code\src\Lab02_code\Lab02_code.java): Viết chương trình tính số tiền điện (in kết quả ra console)
+- [Bài 2](./Lab02_code/src/Lab02_code/Lab02_code.java): Viết chương trình nhập vào 1 số nguyên từ bàn phím. Kiểm tra số nguyên đó là chẵn hay lẻ và in ra kết quả.
+- [Bài 3](./Lab02_code/src/Lab02_code/Lab02_code.java): Viết chương trình nhập vào 1 số nguyên từ bàn phím. Kiểm tra số nguyên đó là dương, âm hay bằng 0 và in ra kết quả.
+- [Bài 4](./Lab02_code/src/Lab02_code/Lab02_code.java): Viết chương trình tính số tiền điện (in kết quả ra console)
   - Nếu số điện sử dụng từ 0 tới 100, giá mỗi số điện là 1000đ/1 số.
   - Từ số điện 101 (tức là > 100), giá mỗi số điện là 1500đ/1 số.
-- [Bài 5](.\Lab02_code\src\Lab02_code\Lab02_code.java): Viết chương trình nhập vào 1 số nguyên từ bàn phím (1-7). In ra ngày tương ứng trong tuần (1 - Chủ nhật, 2 - Thứ 2, ..., 7 - Thứ 7). Sử dụng câu lệnh switch-case.
+- [Bài 5](./Lab02_code/src/Lab02_code/Lab02_code.java): Viết chương trình nhập vào 1 số nguyên từ bàn phím (1-7). In ra ngày tương ứng trong tuần (1 - Chủ nhật, 2 - Thứ 2, ..., 7 - Thứ 7). Sử dụng câu lệnh switch-case.
