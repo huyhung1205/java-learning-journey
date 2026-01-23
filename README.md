@@ -14,7 +14,7 @@ Repository được tạo trên GitHub và clone về máy tính cá nhân để
 
 ## Lộ trình học tập
 
-### Chương 1:
+### [Chương 1:](./Lab01/README.md)
 #### 1. Java là gì?
 #### 2. Cài đặt môi trường phát triển
 #### 3. Hello World trong Java
