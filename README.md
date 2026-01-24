@@ -34,11 +34,11 @@ Repository được tạo trên GitHub và clone về máy tính cá nhân để
 - [x] 6. Chữa bài tập Lab 02
 
 ### [Chương 3:](./Lab03/README.md)
-- [ ] 1. Java Loops (Vòng lặp)
-- [ ] 2. Java Arrays (Mảng)
-- [ ] 3. Luyện tập Array và Loop
-- [ ] 4. Bài tập Lab 03
-- [ ] 5. Chữa bài tập Lab 03
+- [x] 1. Java Loops (Vòng lặp)
+- [x] 2. Java Arrays (Mảng)
+- [x] 3. Luyện tập Array và Loop
+- [x] 4. Bài tập Lab 03
+- [x] 5. Chữa bài tập Lab 03
 
 ### [Chương 4:](./Lab04/README.md)
 - [ ] 1. Lập trình hướng đối tượng OOP là gì?
