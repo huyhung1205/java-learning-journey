@@ -41,16 +41,16 @@ Repository được tạo trên GitHub và clone về máy tính cá nhân để
 - [x] 5. Chữa bài tập Lab 03
 
 ### [Chương 4:](./Lab04/README.md)
-- [ ] 1. Lập trình hướng đối tượng OOP là gì?
-- [ ] 2. Java Classes and Objects
-- [ ] 3. Thực hành tạo Class và Object
-- [ ] 4. Class Attributes (Thuộc tính của lớp)
-- [ ] 5. Class Methods (Phương thức của lớp)
-- [ ] 6. Constructor (Định nghĩa hàm tạo)
-- [ ] 7. Access Modifiers (Phạm vi truy cập)
-- [ ] 8. Encapsulation (Đóng gói)
-- [ ] 9. Bài tập Lab 04
-- [ ] 10. Chữa bài tập Lab 04
+- [x] 1. Lập trình hướng đối tượng OOP là gì?
+- [x] 2. Java Classes and Objects
+- [x] 3. Thực hành tạo Class và Object
+- [x] 4. Class Attributes (Thuộc tính của lớp)
+- [x] 5. Class Methods (Phương thức của lớp)
+- [x] 6. Constructor (Định nghĩa hàm tạo)
+- [x] 7. Access Modifiers (Phạm vi truy cập)
+- [x] 8. Encapsulation (Đóng gói)
+- [x] 9. Bài tập Lab 04
+- [x] 10. Chữa bài tập Lab 04
 
 ### [Chương 5:](./Lab05/README.md)
 - [ ] 1. Non-primitive(reference) Data Types
