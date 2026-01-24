@@ -63,6 +63,26 @@ String greeting = "Hello, World!";
   - Arrays
   - Classes
 
+### 1.3 Conversion between Data Types (Chuyển đổi giữa các kiểu dữ liệu):
+- Widening Casting (Bổ rộng kiểu dữ liệu) - tự động chuyển đổi từ kiểu nhỏ hơn sang kiểu lớn hơn:
+  `byte` -> `short` -> `char` -> `int` -> `long` -> `float` -> `double`
+  
+  Ví dụ:
+  ```java
+  int myInt = 9;
+  double myDouble = myInt; // Tự động chuyển đổi int thành double
+  double myDouble2 = (int) myInt; // Cách viết có thể thêm dấu ngoặc nhưng không cần thiết
+  ```
+- Narrowing Casting (Thu hẹp kiểu dữ liệu) - cần phải ép kiểu thủ công từ kiểu lớn hơn sang kiểu nhỏ hơn:
+  `double` -> `float` -> `long` -> `int` -> `char` -> `short` -> `byte`
+  
+  Ví dụ:
+  ```java
+  double myDouble = 9.78;
+  int myInt = (int) myDouble; // Ép kiểu double thành int
+  ```
+
+
 ## 2. Java Operators (Toán Tử)
 [Java Operators](https://www.w3schools.com/java/java_operators.asp)
 ### 2.1 Arithmetic Operators (Toán tử số học):
