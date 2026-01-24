@@ -26,12 +26,12 @@ Repository được tạo trên GitHub và clone về máy tính cá nhân để
 - [x] 9. Chữa bài tập Lab 01
 
 ### [Chương 2:](./Lab02/README.md)
-- [ ] 1. Java Data Types (Kiểu dữ liệu)
-- [ ] 2. Java Operators (Toán Tử)
-- [ ] 3. Java If...Else
-- [ ] 4. Java Switch
-- [ ] 5. Bài tập Lab 02
-- [ ] 6. Chữa bài tập Lab 02
+- [x] 1. Java Data Types (Kiểu dữ liệu)
+- [x] 2. Java Operators (Toán Tử)
+- [x] 3. Java If...Else
+- [x] 4. Java Switch
+- [x] 5. Bài tập Lab 02
+- [x] 6. Chữa bài tập Lab 02
 
 ### [Chương 3:](./Lab03/README.md)
 - [ ] 1. Java Loops (Vòng lặp)

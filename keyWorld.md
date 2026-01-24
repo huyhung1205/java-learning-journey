@@ -1,6 +1,6 @@
-- Format code: Ctrl + Shift + F
-- Font size: Ctrl + / Ctrl -
-- Chạy: Ctrl + F11
-- `sysout` + Ctrl + Space: System.out.println(); 
-- Ctrl + Space: gợi ý code
-- Ctrl + /: comment/uncomment dòng code
+- Format code: `Ctrl + Shift + F`
+- Font size: `Ctrl + / Ctrl -`
+- Chạy: `Ctrl + F11`
+- `sysout` + `Ctrl + Space`: `System.out.println()`; 
+- `Ctrl + Space`: gợi ý code
+- `Ctrl + /`: comment/uncomment dòng code
