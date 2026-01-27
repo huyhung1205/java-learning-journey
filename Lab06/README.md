@@ -228,6 +228,10 @@ public class RegexDemo {
 
 
 ## 4. Bài tập Regular Expressions
+
+[Regular expressions](https://regexone.com/)
+[Regular expression for user id](https://stackoverflow.com/questions/24304620/regular-expression-for-user-id)
+[Java regex email](https://stackoverflow.com/questions/8204680/java-regex-email)
 - [Bài 3](./Lab06_code/src/Lab06_code/Bai3.java): Viết Regex kiểm tra email hợp lệ (ví dụ: abc@gmail.com).
 - [Bài 4](./Lab06_code/src/Lab06_code/Bai4.java): Viết Regex kiểm tra số điện thoại Việt Nam (bắt đầu bằng 0, có 10 chữ số).
 - [Bài 5](./Lab06_code/src/Lab06_code/Bai5.java): Viết Regex tìm tất cả từ bắt đầu bằng chữ N trong một đoạn văn bản.
