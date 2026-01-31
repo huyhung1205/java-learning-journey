@@ -53,18 +53,18 @@ Repository được tạo trên GitHub và clone về máy tính cá nhân để
 - [x] 10. Chữa bài tập Lab 04
 
 ### [Chương 5:](./Lab05/README.md)
-- [ ] 1. Non-primitive(reference) Data Types
-- [ ] 2. Java AutoBoxing và Unboxing (Object wrapper class) 
-- [ ] 3. ArrayList là gì?
-- [ ] 4. Java Generics (Basic)
-- [ ] 5. Bài tập Lab 05
-- [ ] 6. Chữa bài tập Lab 05
+- [x] 1. Non-primitive(reference) Data Types
+- [x] 2. Java AutoBoxing và Unboxing (Object wrapper class) 
+- [x] 3. ArrayList là gì?
+- [x] 4. Java Generics (Basic)
+- [x] 5. Bài tập Lab 05
+- [x] 6. Chữa bài tập Lab 05
 
 ### [Chương 6:](./Lab06/README.md)
-- [ ] 1. String trong Java
-- [ ] 2. Bài tập sử dụng String
-- [ ] 3. Regular Expressions (Biểu thức chính quy)
-- [ ] 4. Bài tập Regular Expressions
+- [x] 1. String trong Java
+- [x] 2. Bài tập sử dụng String
+- [x] 3. Regular Expressions (Biểu thức chính quy)
+- [x] 4. Bài tập Regular Expressions
 
 ### [Chương 7:](./Lab07/README.md)
 - [ ] 1. Inheritance (Kế thừa)
