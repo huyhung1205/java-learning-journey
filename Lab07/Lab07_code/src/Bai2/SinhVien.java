@@ -1,6 +1,6 @@
-package Lab07_code;
+package Bai2;
 
-public class SinhVien {
+abstract class SinhVien {
 	protected String id, name;
 	protected double price, tax;
 
@@ -11,15 +11,9 @@ public class SinhVien {
 		this.tax = tax;
 	}
 
-	public SinhVien() {
-	}
-
 	public double getPriceTax() {
-		return this.price * this.tax;
+		return price * tax;
 	}
 
-	public void inFor() {
-		System.out.print("This is class Super");
-	}
-
+	abstract String getMajor();
 }

@@ -1,11 +1,7 @@
-package Lab07_code;
+package Bai2;
 
 public class SinhVienIT extends SinhVien {
 	private String language;
-
-	public SinhVienIT() {
-		super();
-	}
 
 	public SinhVienIT(String id, String name, double price, double tax, String language) {
 		super(id, name, price, tax);
@@ -13,11 +9,12 @@ public class SinhVienIT extends SinhVien {
 	}
 
 	@Override
-	public double getPriceTax() {
-		return this.price * this.tax;
+	String getMajor() {
+		return "Công nghệ thông tin";
 	}
 
-	public void hello() {
-		System.out.print("hello");
+	@Override
+	public String toString() {
+		return "[language=" + language + ", id=" + id + ", name=" + name + ", price=" + price + ", tax=" + tax + "]";
 	}
 }
