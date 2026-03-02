@@ -67,19 +67,19 @@ Repository được tạo trên GitHub và clone về máy tính cá nhân để
 - [x] 4. Bài tập Regular Expressions
 
 ### [Chương 7:](./Lab07/README.md)
-- [ ] 1. Inheritance (Kế thừa)
-- [ ] 2. Super keyword
-- [ ] 3. Abstraction Class (Basic)
-- [ ] 4. Polymorphism (Đa hình)
-- [ ] 5. Bài tập Lab 07
-- [ ] 6. Chữa bài tập Lab 07
+- [x] 1. Inheritance (Kế thừa)
+- [x] 2. Super keyword
+- [x] 3. Abstraction Class (Basic)
+- [x] 4. Polymorphism (Đa hình)
+- [x] 5. Bài tập Lab 07
+- [x] 6. Chữa bài tập Lab 07
 
 ### [Chương 8:](./Lab08/README.md)
-- [ ] 1. Interface
-- [ ] 2. Interface vs với Java 8
-- [ ] 3. Java Packages
-- [ ] 4. Bài tập Lab 08
-- [ ] 5. Chữa bài tập Lab 08
+- [x] 1. Interface
+- [x] 2. Interface vs với Java 8
+- [x] 3. Java Packages
+- [x] 4. Bài tập Lab 08
+- [x] 5. Chữa bài tập Lab 08
 
 ### [Chương 9:](./Lab09/README.md)
 - [ ] 1. Try...catch
