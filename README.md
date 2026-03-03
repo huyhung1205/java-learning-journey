@@ -82,11 +82,11 @@ Repository được tạo trên GitHub và clone về máy tính cá nhân để
 - [x] 5. Chữa bài tập Lab 08
 
 ### [Chương 9:](./Lab09/README.md)
-- [ ] 1. Try...catch
-- [ ] 2. Keyword finally
-- [ ] 3. Keyword throw và throws
-- [ ] 4. Bài tập Lab 09
-- [ ] 5. Chữa bài tập Lab 09
+- [x] 1. Try...catch
+- [x] 2. Keyword finally
+- [x] 3. Keyword throw và throws
+- [x] 4. Bài tập Lab 09
+- [x] 5. Chữa bài tập Lab 09
 
 ### [Chương 10:](./Lab10/README.md)
 - [ ] 1. Tổng quan về Java I/O Stream
