@@ -89,13 +89,13 @@ Repository được tạo trên GitHub và clone về máy tính cá nhân để
 - [x] 5. Chữa bài tập Lab 09
 
 ### [Chương 10:](./Lab10/README.md)
-- [ ] 1. Tổng quan về Java I/O Stream
-- [ ] 2. Phân loại Stream trong Java IO
-- [ ] 3. Ví dụ về Read và Write File
-- [ ] 4. Path Class
+- [x] 1. Tổng quan về Java I/O Stream
+- [x] 2. Phân loại Stream trong Java IO
+- [x] 3. Ví dụ về Read và Write File
+- [x] 4. Path Class
 
 ### [Chương 11:](./Lab11/README.md)
-- [ ] 1. Process and Threads
-- [ ] 2. Thread Object
-- [ ] 3. What is next?
+- [x] 1. Process and Threads
+- [x] 2. Thread Object
+- [x] 3. What is next?
 
