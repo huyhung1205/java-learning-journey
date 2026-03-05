@@ -9,8 +9,24 @@ Repository được tạo trên GitHub và clone về máy tính cá nhân để
 - Ghi chú lý thuyết
 
 ## Cấu trúc thư mục
+- `Lab01/` đến `Lab11/`: Chứa lý thuyết chi tiết (`README.md`) và mã nguồn bài tập/thực hành của từng chương.
+- `methodBasic.md`: Tổng hợp các phương thức quan trọng, thường dùng của các lớp cơ bản trong Java (như `String`, `Object`, `ArrayList`, `Collections`).
+- `keyWorld.md`: Tổng hợp các phím tắt (shortcuts) hữu ích khi code bằng IDE.
+- `docs/`: Thư mục lưu trữ các tài liệu liên quan khác.
+- `README.md`: File giới thiệu chung, chứa lộ trình học tập và hướng dẫn sử dụng.
 
 ## Cách sử dụng
+1. **Clone repository về máy tính:** 
+   ```bash
+   git clone https://github.com/huyhung1205/java-learning-journey.git
+   ```
+2. **Mở project bằng IDE:** Khuyến nghị sử dụng **Spring Tool Suite (STS)**, Eclipse hoặc IntelliJ IDEA. Bạn có thể mở từng bài Lab như một Java Project độc lập.
+3. **Tiến trình học tập:**
+   - Theo dõi lộ trình học tập ở bên dưới.
+   - Bấm vào link `[Chương X]` để đi đến file đọc lý thuyết của chương đó.
+   - Kết hợp đọc lý thuyết, xem ví dụ và tự gõ lại code bài tập vào trong thư mục `src` của mỗi Lab.
+   - Sử dụng file `methodBasic.md` để tra cứu nhanh các hàm phổ biến trong quá trình làm bài.
+   - Sử dụng file `keyWorld.md` để làm quen với phím tắt giúp lập trình nhanh hơn.
 
 ## Lộ trình học tập
 
